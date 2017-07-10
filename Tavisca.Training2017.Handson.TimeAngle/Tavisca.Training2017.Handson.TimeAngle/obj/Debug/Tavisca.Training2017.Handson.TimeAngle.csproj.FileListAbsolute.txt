@@ -1,0 +1,12 @@
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\bin\Debug\Tavisca.Training2017.Handson.TimeAngle.exe.config
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\bin\Debug\Tavisca.Training2017.Handson.TimeAngle.exe
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\bin\Debug\Tavisca.Training2017.Handson.TimeAngle.pdb
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\obj\Debug\Tavisca.Training2017.Handson.TimeAngle.csprojResolveAssemblyReference.cache
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\obj\Debug\Tavisca.Training2017.Handson.TimeAngle.exe
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\obj\Debug\Tavisca.Training2017.Handson.TimeAngle.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\bin\Debug\Tavisca.Training2017.Handson.TimeAngle.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\bin\Debug\Tavisca.Training2017.Handson.TimeAngle.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\bin\Debug\Tavisca.Training2017.Handson.TimeAngle.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\obj\Debug\Tavisca.Training2017.Handson.TimeAngle.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\obj\Debug\Tavisca.Training2017.Handson.TimeAngle.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TimeAngle\Tavisca.Training2017.Handson.TimeAngle\obj\Debug\Tavisca.Training2017.Handson.TimeAngle.pdb

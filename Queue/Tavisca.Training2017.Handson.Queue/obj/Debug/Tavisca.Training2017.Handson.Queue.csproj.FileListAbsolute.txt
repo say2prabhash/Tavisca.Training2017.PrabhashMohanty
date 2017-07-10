@@ -1,0 +1,5 @@
+D:\pmohanty_solution\ConsoleApp1\Tavisca.Training2017.Handson.Queue\bin\Debug\Tavisca.Training2017.Handson.Queue.dll
+D:\pmohanty_solution\ConsoleApp1\Tavisca.Training2017.Handson.Queue\bin\Debug\Tavisca.Training2017.Handson.Queue.pdb
+D:\pmohanty_solution\ConsoleApp1\Tavisca.Training2017.Handson.Queue\obj\Debug\Tavisca.Training2017.Handson.Queue.dll
+D:\pmohanty_solution\ConsoleApp1\Tavisca.Training2017.Handson.Queue\obj\Debug\Tavisca.Training2017.Handson.Queue.pdb
+D:\pmohanty_solution\ConsoleApp1\Tavisca.Training2017.Handson.Queue\obj\Debug\Tavisca.Training2017.Handson.Queue.csprojResolveAssemblyReference.cache

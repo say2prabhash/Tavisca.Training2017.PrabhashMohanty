@@ -1,0 +1,12 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\obj\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\obj\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailingZeroTest\obj\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\pmohanty_solution\Stack_0325\Stack\bin\Debug\Stack.exe.config
+D:\pmohanty_solution\Stack_0325\Stack\bin\Debug\Stack.exe
+D:\pmohanty_solution\Stack_0325\Stack\bin\Debug\Stack.pdb
+D:\pmohanty_solution\Stack_0325\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Stack_0325\Stack\obj\Debug\Stack.exe
+D:\pmohanty_solution\Stack_0325\Stack\obj\Debug\Stack.pdb

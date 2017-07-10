@@ -1,0 +1,5 @@
+D:\pmohanty_solution\QueueUSingStack_0325\QueueUSingStack\bin\Debug\QueueUSingStack.exe.config
+D:\pmohanty_solution\QueueUSingStack_0325\QueueUSingStack\bin\Debug\QueueUSingStack.exe
+D:\pmohanty_solution\QueueUSingStack_0325\QueueUSingStack\bin\Debug\QueueUSingStack.pdb
+D:\pmohanty_solution\QueueUSingStack_0325\QueueUSingStack\obj\Debug\QueueUSingStack.exe
+D:\pmohanty_solution\QueueUSingStack_0325\QueueUSingStack\obj\Debug\QueueUSingStack.pdb

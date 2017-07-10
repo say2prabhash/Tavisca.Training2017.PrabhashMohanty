@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Handson.TrailinZero", "Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero.csproj", "{6853349B-D430-466C-B413-3E1EC67AFBFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Handson.FindTrailingZero", "Tavisca.Training2017.Handson.FindTrailingZero\Tavisca.Training2017.Handson.FindTrailingZero.csproj", "{BCC6075F-769A-4572-9FF6-A8CE075D16EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Handson.TrailingZeroTest", "Tavisca.Training2017.Handson.TrailingZeroTest\Tavisca.Training2017.Handson.TrailingZeroTest.csproj", "{A770AFD7-95FD-4AAD-A03B-8691E87A6F12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6853349B-D430-466C-B413-3E1EC67AFBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6853349B-D430-466C-B413-3E1EC67AFBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6853349B-D430-466C-B413-3E1EC67AFBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6853349B-D430-466C-B413-3E1EC67AFBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC6075F-769A-4572-9FF6-A8CE075D16EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC6075F-769A-4572-9FF6-A8CE075D16EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC6075F-769A-4572-9FF6-A8CE075D16EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC6075F-769A-4572-9FF6-A8CE075D16EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A770AFD7-95FD-4AAD-A03B-8691E87A6F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A770AFD7-95FD-4AAD-A03B-8691E87A6F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A770AFD7-95FD-4AAD-A03B-8691E87A6F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A770AFD7-95FD-4AAD-A03B-8691E87A6F12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

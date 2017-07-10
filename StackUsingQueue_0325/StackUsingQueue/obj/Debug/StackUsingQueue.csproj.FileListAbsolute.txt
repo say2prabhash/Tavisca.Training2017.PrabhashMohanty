@@ -1,0 +1,6 @@
+D:\pmohanty_solution\StackUsingQueue_0325\StackUsingQueue\obj\Debug\StackUsingQueue.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\StackUsingQueue_0325\StackUsingQueue\bin\Debug\StackUsingQueue.exe.config
+D:\pmohanty_solution\StackUsingQueue_0325\StackUsingQueue\bin\Debug\StackUsingQueue.exe
+D:\pmohanty_solution\StackUsingQueue_0325\StackUsingQueue\bin\Debug\StackUsingQueue.pdb
+D:\pmohanty_solution\StackUsingQueue_0325\StackUsingQueue\obj\Debug\StackUsingQueue.exe
+D:\pmohanty_solution\StackUsingQueue_0325\StackUsingQueue\obj\Debug\StackUsingQueue.pdb

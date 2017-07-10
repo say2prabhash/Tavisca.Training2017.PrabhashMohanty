@@ -1,0 +1,4 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.FindTrailingZero\bin\Debug\Tavisca.Training2017.Handson.FindTrailingZero.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.FindTrailingZero\bin\Debug\Tavisca.Training2017.Handson.FindTrailingZero.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.FindTrailingZero\obj\Debug\Tavisca.Training2017.Handson.FindTrailingZero.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.FindTrailingZero\obj\Debug\Tavisca.Training2017.Handson.FindTrailingZero.pdb

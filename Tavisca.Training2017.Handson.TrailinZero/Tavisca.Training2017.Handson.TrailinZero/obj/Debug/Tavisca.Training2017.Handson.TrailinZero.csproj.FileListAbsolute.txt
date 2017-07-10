@@ -1,0 +1,21 @@
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailinZero.exe.config
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailinZero.exe
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailinZero.pdb
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\obj\Debug\Tavisca.Training2017.Handson.TrailinZero.csprojResolveAssemblyReference.cache
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\obj\Debug\Tavisca.Training2017.Handson.TrailinZero.exe
+c:\users\pmohanty\documents\visual studio 2017\Projects\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\obj\Debug\Tavisca.Training2017.Handson.TrailinZero.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailinZero.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailinZero.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailinZero.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\obj\Debug\Tavisca.Training2017.Handson.TrailinZero.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\obj\Debug\Tavisca.Training2017.Handson.TrailinZero.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\obj\Debug\Tavisca.Training2017.Handson.TrailinZero.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.FindTrailingZero.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.FindTrailingZero.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Tavisca.Training2017.Handson.TrailingZeroTest.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.TrailinZero\Tavisca.Training2017.Handson.TrailinZero\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml

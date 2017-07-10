@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Handson.Stack", "Tavisca.Training2017.Handson.Stack\Tavisca.Training2017.Handson.Stack.csproj", "{B58464EE-E97A-4D8F-98C8-E356624543FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Handson.ArraySorting", "ConsoleApp1\Tavisca.Training2017.Handson.ArraySorting.csproj", "{B4B9FDCA-3176-42D9-9F04-B1C384FDC99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58464EE-E97A-4D8F-98C8-E356624543FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58464EE-E97A-4D8F-98C8-E356624543FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58464EE-E97A-4D8F-98C8-E356624543FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58464EE-E97A-4D8F-98C8-E356624543FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B9FDCA-3176-42D9-9F04-B1C384FDC99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B9FDCA-3176-42D9-9F04-B1C384FDC99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B9FDCA-3176-42D9-9F04-B1C384FDC99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B9FDCA-3176-42D9-9F04-B1C384FDC99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

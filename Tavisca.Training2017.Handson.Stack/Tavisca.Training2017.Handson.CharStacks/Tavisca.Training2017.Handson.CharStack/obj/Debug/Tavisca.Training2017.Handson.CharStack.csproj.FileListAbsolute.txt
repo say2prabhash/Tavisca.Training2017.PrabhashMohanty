@@ -1,0 +1,4 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Stack\Tavisca.Training2017.Handson.CharStacks\Tavisca.Training2017.Handson.CharStack\bin\Debug\Tavisca.Training2017.Handson.CharStack.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Stack\Tavisca.Training2017.Handson.CharStacks\Tavisca.Training2017.Handson.CharStack\bin\Debug\Tavisca.Training2017.Handson.CharStack.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Stack\Tavisca.Training2017.Handson.CharStacks\Tavisca.Training2017.Handson.CharStack\obj\Debug\Tavisca.Training2017.Handson.CharStack.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Stack\Tavisca.Training2017.Handson.CharStacks\Tavisca.Training2017.Handson.CharStack\obj\Debug\Tavisca.Training2017.Handson.CharStack.pdb
