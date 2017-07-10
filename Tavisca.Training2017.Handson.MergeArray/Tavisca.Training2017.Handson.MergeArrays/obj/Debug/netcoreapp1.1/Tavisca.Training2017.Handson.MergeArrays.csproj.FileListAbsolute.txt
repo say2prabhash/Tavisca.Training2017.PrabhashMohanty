@@ -1,0 +1,9 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\bin\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.deps.json
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\bin\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.runtimeconfig.json
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\bin\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.runtimeconfig.dev.json
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\bin\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\bin\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\obj\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\obj\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.AssemblyInfo.cs
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\obj\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.dll
+D:\pmohanty_solution\Tavisca.Training2017.Handson.MergeArray\Tavisca.Training2017.Handson.MergeArrays\obj\Debug\netcoreapp1.1\Tavisca.Training2017.Handson.MergeArrays.pdb
