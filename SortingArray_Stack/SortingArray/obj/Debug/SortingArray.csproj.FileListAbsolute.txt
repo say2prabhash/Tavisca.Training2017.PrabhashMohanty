@@ -1,0 +1,5 @@
+D:\pmohanty_solution\SortingArray_Stack\SortingArray\bin\Debug\SortingArray.exe.config
+D:\pmohanty_solution\SortingArray_Stack\SortingArray\bin\Debug\SortingArray.exe
+D:\pmohanty_solution\SortingArray_Stack\SortingArray\bin\Debug\SortingArray.pdb
+D:\pmohanty_solution\SortingArray_Stack\SortingArray\obj\Debug\SortingArray.exe
+D:\pmohanty_solution\SortingArray_Stack\SortingArray\obj\Debug\SortingArray.pdb
