@@ -51,9 +51,10 @@ namespace TrainingProgramScheduler
                                     break;
                                 case 4:
                                     flag = false;
+                                    exit = 1;
                                     break;
                                 default:
-                                    Console.WriteLine("Inalid Entry");
+                                    Console.WriteLine("Invalid Entry");
                                     break;
 
                             }
@@ -81,7 +82,7 @@ namespace TrainingProgramScheduler
                 {
                     Console.WriteLine();
                     Console.WriteLine();
-                    Console.WriteLine("Enter 2. To Track a Program  3. To Update Details of a Program  4. To Exit");
+                    Console.WriteLine("Enter 2. To Track a Program  4. To Exit");
                     Console.WriteLine();
                     Console.WriteLine();
                     int option;
