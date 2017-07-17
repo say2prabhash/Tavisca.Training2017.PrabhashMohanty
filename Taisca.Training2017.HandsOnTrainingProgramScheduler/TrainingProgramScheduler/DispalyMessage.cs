@@ -15,6 +15,7 @@ namespace TrainingProgramScheduler
         public void DisplayWrongUser()
         {
             Console.WriteLine("Wrong username or Password");
+            Console.WriteLine("Enter 0 to renter or 1 to exit");
         }
     }
 }

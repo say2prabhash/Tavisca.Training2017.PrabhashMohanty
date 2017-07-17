@@ -45,6 +45,7 @@
     <Compile Include="AdminDetails.cs" />
     <Compile Include="DispalyMessage.cs" />
     <Compile Include="EnterProgId.cs" />
+    <Compile Include="Matching_Details.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProgramDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
