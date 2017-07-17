@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pmohanty_solution\\Tavisca.Training2017.Handson.MergeArray\\Tavisca.Training2017.Handson.MergeArrays\\Tavisca.Training2017.Handson.MergeArrays.csproj",
+      "projectUniqueName": "D:\\pmohanty_solution\\Tavisca.Training2017.PrabhashMohanty\\Tavisca.Training2017.Handson.MergeArray\\Tavisca.Training2017.Handson.MergeArrays\\Tavisca.Training2017.Handson.MergeArrays.csproj",
       "projectName": "Tavisca.Training2017.Handson.MergeArrays",
-      "projectPath": "D:\\pmohanty_solution\\Tavisca.Training2017.Handson.MergeArray\\Tavisca.Training2017.Handson.MergeArrays\\Tavisca.Training2017.Handson.MergeArrays.csproj",
-      "outputPath": "D:\\pmohanty_solution\\Tavisca.Training2017.Handson.MergeArray\\Tavisca.Training2017.Handson.MergeArrays\\obj\\",
+      "projectPath": "D:\\pmohanty_solution\\Tavisca.Training2017.PrabhashMohanty\\Tavisca.Training2017.Handson.MergeArray\\Tavisca.Training2017.Handson.MergeArrays\\Tavisca.Training2017.Handson.MergeArrays.csproj",
+      "outputPath": "D:\\pmohanty_solution\\Tavisca.Training2017.PrabhashMohanty\\Tavisca.Training2017.Handson.MergeArray\\Tavisca.Training2017.Handson.MergeArrays\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
