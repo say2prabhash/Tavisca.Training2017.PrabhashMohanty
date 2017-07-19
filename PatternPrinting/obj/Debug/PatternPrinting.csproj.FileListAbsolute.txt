@@ -1,0 +1,5 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PatternPrinting\bin\Debug\PatternPrinting.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PatternPrinting\bin\Debug\PatternPrinting.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PatternPrinting\bin\Debug\PatternPrinting.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PatternPrinting\obj\Debug\PatternPrinting.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PatternPrinting\obj\Debug\PatternPrinting.pdb
