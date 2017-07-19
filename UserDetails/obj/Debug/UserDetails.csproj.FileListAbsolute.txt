@@ -1,0 +1,6 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\ConsoleApp3\obj\Debug\UserDetails.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
