@@ -1,0 +1,5 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
