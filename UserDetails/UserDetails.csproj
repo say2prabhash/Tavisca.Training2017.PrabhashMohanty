@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5421E3E8-C75C-4698-9A6F-B4756D43A20A}</ProjectGuid>
+    <ProjectGuid>{7F8D3AFE-DC4F-4D4D-B374-D12B9085B95D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TrainingProgramScheduler</RootNamespace>
-    <AssemblyName>TrainingProgramScheduler</AssemblyName>
+    <RootNamespace>ConsoleApp3</RootNamespace>
+    <AssemblyName>ConsoleApp3</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,15 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminDetails.cs" />
-    <Compile Include="DispalyMessage.cs" />
-    <Compile Include="EnterProgId.cs" />
-    <Compile Include="Matching_Details.cs" />
+    <Compile Include="DisplayMessage.cs" />
+    <Compile Include="Input.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="ProgramDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tracker.cs" />
-    <Compile Include="StatusUpdation.cs" />
+    <Compile Include="Validation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

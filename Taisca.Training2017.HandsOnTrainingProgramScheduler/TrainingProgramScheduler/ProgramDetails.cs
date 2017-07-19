@@ -19,6 +19,23 @@ namespace TrainingProgramScheduler
         private string audience;
         private string remarks;
         private string progId;
+        public ProgramDetails()
+        {
+
+        }
+        public ProgramDetails(string pname,DateTime pdate,string btime,string dur,string trainr,string schedulr,string stats,string aud,string remark, string pid)
+        {
+            programName = pname;
+            progDate = pdate;
+            beginningTime = btime;
+            duration = dur;
+            trainer = trainr;
+            scheduler = schedulr;
+            status = stats;
+            audience = aud;
+            remarks = remark;
+            progId = pid;
+        }
         public void NewProgram()
         {
             string date;

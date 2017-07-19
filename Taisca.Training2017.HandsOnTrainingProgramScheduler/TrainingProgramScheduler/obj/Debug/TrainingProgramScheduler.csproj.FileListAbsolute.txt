@@ -4,3 +4,9 @@ c:\users\user\documents\visual studio 2017\Projects\Taisca.Training2017.HandsOnT
 c:\users\user\documents\visual studio 2017\Projects\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\obj\Debug\TrainingProgramScheduler.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2017\Projects\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\obj\Debug\TrainingProgramScheduler.exe
 c:\users\user\documents\visual studio 2017\Projects\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\obj\Debug\TrainingProgramScheduler.pdb
+D:\pmohanty_solution\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\bin\Debug\TrainingProgramScheduler.exe.config
+D:\pmohanty_solution\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\bin\Debug\TrainingProgramScheduler.exe
+D:\pmohanty_solution\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\bin\Debug\TrainingProgramScheduler.pdb
+D:\pmohanty_solution\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\obj\Debug\TrainingProgramScheduler.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\obj\Debug\TrainingProgramScheduler.exe
+D:\pmohanty_solution\Taisca.Training2017.HandsOnTrainingProgramScheduler\TrainingProgramScheduler\obj\Debug\TrainingProgramScheduler.pdb
