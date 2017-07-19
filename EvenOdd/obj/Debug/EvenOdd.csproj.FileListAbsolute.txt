@@ -1,0 +1,6 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\EvenOdd\bin\Debug\EvenOdd.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\EvenOdd\bin\Debug\EvenOdd.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\EvenOdd\bin\Debug\EvenOdd.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\EvenOdd\obj\Debug\EvenOdd.csprojResolveAssemblyReference.cache
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\EvenOdd\obj\Debug\EvenOdd.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\EvenOdd\obj\Debug\EvenOdd.pdb
