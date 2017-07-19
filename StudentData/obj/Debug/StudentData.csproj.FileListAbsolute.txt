@@ -1,0 +1,5 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\StudentData\bin\Debug\StudentData.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\StudentData\bin\Debug\StudentData.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\StudentData\bin\Debug\StudentData.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\StudentData\obj\Debug\StudentData.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Assignments\StudentData\obj\Debug\StudentData.pdb
