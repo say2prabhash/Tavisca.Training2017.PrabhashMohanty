@@ -1,0 +1,5 @@
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Chat Application\Client\bin\Debug\Client.exe.config
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Chat Application\Client\bin\Debug\Client.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Chat Application\Client\bin\Debug\Client.pdb
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Chat Application\Client\obj\Debug\Client.exe
+D:\pmohanty_solution\Tavisca.Training2017.Handson.Chat Application\Client\obj\Debug\Client.pdb
